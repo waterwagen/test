@@ -14,3 +14,5 @@ print('withWhitespace: {}'.format(withWhitespace))
 withoutWhitespace = withWhitespace.strip()
 print('withoutWhitespace: {}'.format(withoutWhitespace))
 
+# something new
+
